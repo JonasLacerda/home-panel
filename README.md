@@ -9,3 +9,5 @@ Congiguração do esp32
 </p>
 
 Depois posto as telas quando conseguir colocar ele na parede!!
+
+<a href="https://www.buymeacoffee.com/caosaquatico"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a pizza!!&emoji=🍕&slug=caosaquatico&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
