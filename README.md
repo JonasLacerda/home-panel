@@ -1,6 +1,6 @@
 # 🏠 Home Panel - ESP32 Controlador para Home Assistant
 
-![ESP32 Panel](config.png) *Configuração do Arduino IDE*
+![Imagem da configuração](config.png) *Configuração do Arduino IDE*
 
 ## 📋 Descrição
 Painel de controle baseado em ESP32 para integração com Home Assistant, com interface LVGL e controle MQTT.
@@ -10,12 +10,6 @@ Painel de controle baseado em ESP32 para integração com Home Assistant, com in
    - ESP32 com tela LCD 3.5"
    - Modelo: JC3248W535EN (se for relevante)
 
-2. **Software**:
-   ```cpp
-   // Exemplo de configuração básica
-   #define MQTT_SERVER "homeassistant.local"
-   #define MQTT_PORT 1883
-   ```
 
 ## 🖼️ Telas (Em desenvolvimento)
 > *"Depois posto as telas quando conseguir colocar ele na parede!!"*
