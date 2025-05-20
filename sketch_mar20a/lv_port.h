@@ -162,3 +162,15 @@ void lvgl_port_unlock(void);
 #ifdef __cplusplus
 }
 #endif
+
+// parte do .ino
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+void turnOnScreen(void);
+
+#ifdef __cplusplus
+}
+#endif
+//fim dela
