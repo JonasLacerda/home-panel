@@ -1,6 +1,6 @@
 # home-panel
 Meu panel do home assistant
+Congiguração do esp32
 <p align="center">
-  Congiguração do esp32
   <img src="config.png" alt="Configuração arduino"/>
 </p>
